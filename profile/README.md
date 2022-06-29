@@ -2,7 +2,7 @@
 
 <a href="https://www.octolab.org/" target="_blank">  
   <img align="right" width="350" alt="OctoLab's mascot"  
-       src="https://cdn.octolab.org/geek/octolab.png" />  
+       src="https://cdn.octolab.org/hero/baby.png" />  
 </a>
 
 We are a developer-centric community of open-source enthusiasts.
@@ -39,4 +39,4 @@ organizations: [LifeOS][], [Sparkle][], and [Tact][].
 [Sparkle]:      https://github.com/withsparkle
 
 <img align="right" alt="profile views"
-     src="https://komarev.com/ghpvc/?username=octolab&label=views&color=grey" />
+     src="https://komarev.com/ghpvc/?username=octopot&label=views&color=grey" />
